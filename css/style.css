@@ -36,7 +36,7 @@
   }
   
   .flip-card::before {
-    background: url('http://oi64.tinypic.com/au8iyx.jpg');
+    background: url('../card.jpg');
     background-size: contain;
     transform: rotateY(180deg);
     background-color: #ffffff;
